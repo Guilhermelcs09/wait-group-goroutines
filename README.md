@@ -1,2 +1,2 @@
 # wait group goroutines
- entendendo como funciona goroutines com wait grfoup 
+ entendendo como funciona goroutines com wait group 
